@@ -6,6 +6,8 @@ A Docker image with [Message DB's](https://github.com/message-db/message-db) Pos
 
 A major thanks to GitHub user bobisme for your [eventide-docker](https://github.com/bobisme/eventide-docker).
 
+And of course to the Eventide Project for Message DB.
+
 ## License
 
 MIT
