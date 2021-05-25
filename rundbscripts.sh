@@ -1,4 +1,4 @@
 #!/bin/sh
 
-cd /usr/src/eventide/message-db-message-db-172b782/database
+cd /usr/src/eventide/message-db-1.2.6/database
 ./install.sh
