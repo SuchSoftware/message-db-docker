@@ -1,5 +1,9 @@
 # message-db-docker
 
+*This repo is deprecated.*
+
+Please update to [https://gitlab.com/such-software/message-db-docker](https://gitlab.com/such-software/message-db-docker).
+
 A Docker image with [Message DB's](https://github.com/message-db/message-db) PostgreSQL message store implementation.  Does not install a Ruby gem---just gets the installation files directly from GitHub.
 
 ## Acknowledgements
